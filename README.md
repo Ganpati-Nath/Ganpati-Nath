@@ -36,6 +36,8 @@ I’m currently listening to TRAVIS SCOTT! 🎶
 
 📫 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/ganpatinath/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ganpatinath07@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+📈 LeetCode Stats
+<p align="center"> <img src="https://leetcard.jacoblin.cool/ganpatinath07?ext=contest" alt="Leetcode Stats" /> </p>
 <!-- Profile Visitors Counter --> <p align="center"> <img src="https://profile-counter.glitch.me/Ganpati-Nath/count.svg" alt="Profile Visitors" /> </p>
 🎬 Bored? Let's dive into some anime adventures!
 
