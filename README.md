@@ -66,7 +66,7 @@ I’m currently listening to *TRAVIS SCOTT*! 🎶
 
 ---
 
-<!-- Profile Visitors Counter --> <p align="center"> <img src="https://profile-counter.glitch.me/Ganpati-Nath/count.svg" alt="Profile Visitors" /> </p>
+<!-- Profile Visitors Counter --> <p align="center"><img src="https://profile-counter.glitch.me/Ganpati-Nath/count.svg" alt="Profile Visitors" /></p>
 
 ---
 
