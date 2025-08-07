@@ -66,11 +66,6 @@ I’m currently listening to *TRAVIS SCOTT*! 🎶
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Ganpati-Nath/count.svg" alt="Profile Visitors" />
-</p>
----
-
 *🎬 Bored? Let's dive into some anime adventures!*  
 
 [![Anime](https://img.shields.io/badge/Anime-FC4C9C?style=for-the-badge&logo=anime&logoColor=white)](https://hianimez.to/home)
